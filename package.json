@@ -1,0 +1,35 @@
+{
+  "name": "larf-node",
+  "version": "1.0.2",
+  "description": "This is connector vue-laravel-file-manager in node.js.",
+  "main": "larf.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/refinec/larf-node.git"
+  },
+  "keywords": [
+    "laravel",
+    "nodejs",
+    "connector"
+  ],
+  "bugs": {
+    "url": "https://github.com/refinec/larf-node/issues"
+  },
+  "homepage": "https://github.com/refinec/larf-node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "refinec",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^5.0.0",
+    "async": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "fs-extra": "^9.0.1",
+    "mime-types": "^2.1.27",
+    "unzip": "^0.1.11"
+  }
+
+}
