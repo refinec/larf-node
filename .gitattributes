@@ -1,1 +1,2 @@
 *.js linguist-language=nodejs
+*.md linguist-language=express
