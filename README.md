@@ -1,6 +1,6 @@
 ## larf NodeJS Connector
 
-This is connector for [vue-laravel-file-manager](https://github.com/alexusmai/vue-laravel-file-manager) in node.js.
+This is connector for vue-laravel-file-manager in node.js.
 
 ![larf](./tempfile/larf.gif)
 
