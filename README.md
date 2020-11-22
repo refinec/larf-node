@@ -3,6 +3,7 @@
 This is connector for vue-laravel-file-manager in node.js.
 
 ![larf](./tempfile/larf.gif)
+The Aliyun Oss connector for this manager : https://github.com/refinec/larfoss-node
 
 ## Installation
 
